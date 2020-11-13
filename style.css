@@ -1,0 +1,26 @@
+body{
+    background: #c4ffcd;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.active{
+    background-color: skyblue !important;
+}
+.underline{
+    text-decoration: underline;
+}
+.line-through {
+    text-decoration: line-through;
+}
+
+.form-group{
+    font-size: 26px;
+    color: #56a2b8;
+}
+.btn{
+    margin-left: 10px;
+}
